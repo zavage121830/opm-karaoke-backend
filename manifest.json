@@ -1,0 +1,12 @@
+{
+  "versionCode": 100,
+  "versionName": "1.0.0",
+  "catalogUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/songs.json",
+  "assets": [
+    {
+      "folder": "sound",
+      "fileName": "soundfont.sf2",
+      "url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/soundfont.sf2"
+    }
+  ]
+}
