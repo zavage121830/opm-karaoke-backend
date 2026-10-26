@@ -3,21 +3,21 @@
   "songs": [
     {
       "id": "1",
-      "title": "MULTO - Cup of Joe (HD Karaoke)",
+      "title": "Antukin (Karaoke_Acoustic Instrumental)",
       "artist": "Unknown Artist",
       "genre": "OPM",
       "duration": "0:00",
-      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/MULTO%20-%20Cup%20of%20Joe%20%28HD%20Karaoke%29.mp3",
+      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/Antukin%20%28Karaoke_Acoustic%20Instrumental%29.mp3",
       "coverUrl": "",
       "lrcText": "[00:00.00] Backing Track / No synced lyrics available"
     },
     {
       "id": "2",
-      "title": "Rico Blanco - Antukin (Karaoke_Acoustic Instrumental)",
+      "title": "multo",
       "artist": "Unknown Artist",
       "genre": "OPM",
       "duration": "0:00",
-      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/Rico%20Blanco%20-%20Antukin%20%28Karaoke_Acoustic%20Instrumental%29.mp3",
+      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/multo.mp3",
       "coverUrl": "",
       "lrcText": "[00:00.00] Backing Track / No synced lyrics available"
     }
