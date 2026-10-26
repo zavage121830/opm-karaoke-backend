@@ -1,43 +1,25 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.0",
-  "appUpdate": {
-    "versionCode": 100,
-    "versionName": "1.0.0",
-    "apkUrl": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/app-release.apk",
-    "changelog": "Initial OPM Karaoke release!",
-    "forceUpdate": false
-  },
+  "version": 1,
   "songs": [
     {
-      "id": "opm_001",
-      "title": "Multo",
-      "artist": "Cup of Joe",
-      "genre": "OPM Rock",
-      "duration": "4:15",
-      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/MULTO.-.Cup.of.Joe.HD.Karaoke.mp3",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/8a/7e/3f8a7e58-...", 
-      "lrcText": "[00:12.50] Huwag ka nang mangako\n[00:16.20] Na hindi na mauulit...\n[00:20.10] Dahil alam ko namang\n[00:23.40] Madali kang maakit..."
+      "id": "1",
+      "title": "MULTO - Cup of Joe (HD Karaoke)",
+      "artist": "Unknown Artist",
+      "genre": "OPM",
+      "duration": "0:00",
+      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/MULTO%20-%20Cup%20of%20Joe%20%28HD%20Karaoke%29.mp3",
+      "coverUrl": "",
+      "lrcText": "[00:00.00] Backing Track / No synced lyrics available"
     },
     {
-      "id": "opm_002",
-      "title": "Antukin",
-      "artist": "Rico Blanco",
-      "genre": "OPM Acoustic",
-      "duration": "3:50",
-      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/Rico.Blanco.-.Antukin.Karaoke_Acoustic.Instrumental.mp3",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/...",
-      "lrcText": "[00:10.00] Umuulan nanaman...\n[00:14.20] At hindi ka man lang nagparamdam...\n[00:18.50] Kailan kaya muling\n[00:22.10] Makakapiling ka?"
-    },
-    {
-  "id": "test_999",
-  "title": "GitHub Sync Test Track",
-  "artist": "Test Artist",
-  "genre": "OPM",
-  "duration": "3:00",
-  "audioUrl": "PASTE_ANY_WORKING_MP3_URL_HERE",
-  "coverUrl": "",
-  "lrcText": "[00:00.00] Testing GitHub manifest fetch..."
-}
+      "id": "2",
+      "title": "Rico Blanco - Antukin (Karaoke_Acoustic Instrumental)",
+      "artist": "Unknown Artist",
+      "genre": "OPM",
+      "duration": "0:00",
+      "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/Rico%20Blanco%20-%20Antukin%20%28Karaoke_Acoustic%20Instrumental%29.mp3",
+      "coverUrl": "",
+      "lrcText": "[00:00.00] Backing Track / No synced lyrics available"
+    }
   ]
 }
