@@ -28,6 +28,16 @@
       "audioUrl": "https://github.com/zavage121830/opm-karaoke-backend/releases/download/v1.0.0/Rico.Blanco.-.Antukin.Karaoke_Acoustic.Instrumental.mp3",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/...",
       "lrcText": "[00:10.00] Umuulan nanaman...\n[00:14.20] At hindi ka man lang nagparamdam...\n[00:18.50] Kailan kaya muling\n[00:22.10] Makakapiling ka?"
-    }
+    },
+    {
+  "id": "test_999",
+  "title": "GitHub Sync Test Track",
+  "artist": "Test Artist",
+  "genre": "OPM",
+  "duration": "3:00",
+  "audioUrl": "PASTE_ANY_WORKING_MP3_URL_HERE",
+  "coverUrl": "",
+  "lrcText": "[00:00.00] Testing GitHub manifest fetch..."
+}
   ]
 }
